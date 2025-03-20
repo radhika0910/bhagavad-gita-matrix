@@ -1,6 +1,6 @@
 {
   "name": "bhagavad-gita-matrix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Matrix Rain UI component displaying Bhagavad Gita shloks",
   "main": "dist/index.js",
   "scripts": {
