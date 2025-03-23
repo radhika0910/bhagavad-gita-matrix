@@ -1,6 +1,6 @@
 {
   "name": "bhagavad-gita-matrix",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A Matrix Rain UI component displaying Bhagavad Gita shloks",
   "main": "dist/index.js",
   "scripts": {
@@ -25,18 +25,21 @@
   },
   "homepage": "https://github.com/radhika0910/bhagavad-gita-matrix#readme",
   "peerDependencies": {
-    "react": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
-  "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0",
-  "prop-types": "^15.7.0"
+    "prop-types": "^15.7.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.26.9",
     "@babel/preset-react": "^7.26.3",
     "babel-loader": "^9.2.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
     "prop-types": "^15.8.1",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "webpack": "^5.98.0",
     "webpack-cli": "^5.1.4"
   }
